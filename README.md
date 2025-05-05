@@ -1,10 +1,2 @@
-Features
-🎨 Modern, clean, and responsive UI
-
-📱 Mobile-first design
-
-🧠 About Me section with skills and interests
-
-🛠️ Projects showcase with links to GitHub or live demos
-
-📬 Contact form with email integration 
+🚀 My Portfolio v2 — Built with ReactJS
+This is my second and more advanced personal portfolio website, developed using ReactJS. It showcases my skills, projects, and contact info with a modern, responsive design and improved interactivity.
